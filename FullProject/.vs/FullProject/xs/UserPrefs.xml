@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{F2C8E786-31F3-4255-AA6D-696751F08B2C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FullProject/Palindrom/Program.cs">
+    <Files>
+      <File FileName="FullProject/Program.cs" Line="10" Column="43" />
+      <File FileName="FullProject/PersonList/Person.cs" />
+      <File FileName="FullProject/PersonList/CreatePersonesList.cs" />
+      <File FileName="FullProject/PersonList/CreateList.cs" />
+      <File FileName="FullProject/PersonList/Output/ConsoleWriteListOfPersones.cs" />
+      <File FileName="FullProject/PersonList/Input/InputAge.cs" />
+      <File FileName="FullProject/PersonList/Input/InputAnswer.cs" />
+      <File FileName="FullProject/PersonList/Input/InputNumber.cs" />
+      <File FileName="FullProject/PersonList/Input/InputPerson.cs" />
+      <File FileName="FullProject/Palindrom/Program.cs" Line="41" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FullProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{06D3DF9A-E4FE-4D23-A906-175166BF86E7}|Default">
+  <MonoDevelop.Ide.ItemProperties.PalindromAndPersoneList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PalindromAndPersoneList/ChangeTyteOfOperation.cs">
+    <Files>
+      <File FileName="PalindromAndPersoneList/Program.cs" Line="2" Column="34" />
+      <File FileName="PalindromAndPersoneList/Palindrom/Palindrom.cs" />
+      <File FileName="PalindromAndPersoneList/ChangeTyteOfOperation.cs" Line="8" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

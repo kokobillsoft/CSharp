@@ -1,0 +1,6 @@
+/Users/MAC-kokobill/Projects/TestLinkAndVariables/TestLinkAndVariables/bin/Debug/TestLinkAndVariables.exe
+/Users/MAC-kokobill/Projects/TestLinkAndVariables/TestLinkAndVariables/bin/Debug/TestLinkAndVariables.pdb
+/Users/MAC-kokobill/Projects/TestLinkAndVariables/TestLinkAndVariables/obj/Debug/TestLinkAndVariables.csproj.AssemblyReference.cache
+/Users/MAC-kokobill/Projects/TestLinkAndVariables/TestLinkAndVariables/obj/Debug/TestLinkAndVariables.csproj.CoreCompileInputs.cache
+/Users/MAC-kokobill/Projects/TestLinkAndVariables/TestLinkAndVariables/obj/Debug/TestLinkAndVariables.exe
+/Users/MAC-kokobill/Projects/TestLinkAndVariables/TestLinkAndVariables/obj/Debug/TestLinkAndVariables.pdb

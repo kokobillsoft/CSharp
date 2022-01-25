@@ -1,0 +1,6 @@
+/Users/MAC-kokobill/Projects/testTest/testTest/bin/Debug/testTest.exe
+/Users/MAC-kokobill/Projects/testTest/testTest/bin/Debug/testTest.pdb
+/Users/MAC-kokobill/Projects/testTest/testTest/obj/x86/Debug/testTest.csproj.CoreCompileInputs.cache
+/Users/MAC-kokobill/Projects/testTest/testTest/obj/x86/Debug/testTest.exe
+/Users/MAC-kokobill/Projects/testTest/testTest/obj/x86/Debug/testTest.pdb
+/Users/MAC-kokobill/Projects/testTest/testTest/obj/x86/Debug/testTest.csproj.AssemblyReference.cache

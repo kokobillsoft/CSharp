@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{68FD0ADC-267F-4106-9341-E37626720BAD}|Default">
+  <MonoDevelop.Ide.ItemProperties.FindLevel PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FindLevel/Program.cs">
+    <Files>
+      <File FileName="FindLevel/Program.cs" Line="44" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/MAC-kokobill/Projects/FullProject/FullProject/obj/Debug/FullProject.csproj.AssemblyReference.cache
+/Users/MAC-kokobill/Projects/FullProject/FullProject/obj/Debug/FullProject.csproj.CoreCompileInputs.cache
+/Users/MAC-kokobill/Projects/FullProject/FullProject/bin/Debug/FullProject.exe
+/Users/MAC-kokobill/Projects/FullProject/FullProject/bin/Debug/FullProject.pdb
+/Users/MAC-kokobill/Projects/FullProject/FullProject/obj/Debug/FullProject.exe
+/Users/MAC-kokobill/Projects/FullProject/FullProject/obj/Debug/FullProject.pdb

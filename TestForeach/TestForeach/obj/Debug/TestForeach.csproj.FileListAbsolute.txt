@@ -1,0 +1,6 @@
+/Users/MAC-kokobill/Projects/TestForeach/TestForeach/bin/Debug/TestForeach.exe
+/Users/MAC-kokobill/Projects/TestForeach/TestForeach/bin/Debug/TestForeach.pdb
+/Users/MAC-kokobill/Projects/TestForeach/TestForeach/obj/Debug/TestForeach.csproj.CoreCompileInputs.cache
+/Users/MAC-kokobill/Projects/TestForeach/TestForeach/obj/Debug/TestForeach.exe
+/Users/MAC-kokobill/Projects/TestForeach/TestForeach/obj/Debug/TestForeach.pdb
+/Users/MAC-kokobill/Projects/TestForeach/TestForeach/obj/Debug/TestForeach.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+/Users/MAC-kokobill/Projects/Test_Dikt/Test_Dikt/bin/Debug/Test_Dikt.exe
+/Users/MAC-kokobill/Projects/Test_Dikt/Test_Dikt/bin/Debug/Test_Dikt.pdb
+/Users/MAC-kokobill/Projects/Test_Dikt/Test_Dikt/obj/Debug/Test_Dikt.csproj.AssemblyReference.cache
+/Users/MAC-kokobill/Projects/Test_Dikt/Test_Dikt/obj/Debug/Test_Dikt.csproj.CoreCompileInputs.cache
+/Users/MAC-kokobill/Projects/Test_Dikt/Test_Dikt/obj/Debug/Test_Dikt.exe
+/Users/MAC-kokobill/Projects/Test_Dikt/Test_Dikt/obj/Debug/Test_Dikt.pdb

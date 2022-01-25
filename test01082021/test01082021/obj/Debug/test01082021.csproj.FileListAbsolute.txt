@@ -1,0 +1,6 @@
+/Users/MAC-kokobill/Projects/test01082021/test01082021/bin/Debug/test01082021.exe
+/Users/MAC-kokobill/Projects/test01082021/test01082021/bin/Debug/test01082021.pdb
+/Users/MAC-kokobill/Projects/test01082021/test01082021/obj/Debug/test01082021.csproj.AssemblyReference.cache
+/Users/MAC-kokobill/Projects/test01082021/test01082021/obj/Debug/test01082021.csproj.CoreCompileInputs.cache
+/Users/MAC-kokobill/Projects/test01082021/test01082021/obj/Debug/test01082021.exe
+/Users/MAC-kokobill/Projects/test01082021/test01082021/obj/Debug/test01082021.pdb

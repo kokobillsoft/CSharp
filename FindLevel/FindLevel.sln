@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLevel", "FindLevel\FindLevel.csproj", "{68FD0ADC-267F-4106-9341-E37626720BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68FD0ADC-267F-4106-9341-E37626720BAD}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{68FD0ADC-267F-4106-9341-E37626720BAD}.Debug|anycpu.Build.0 = Debug|anycpu
+		{68FD0ADC-267F-4106-9341-E37626720BAD}.Release|anycpu.ActiveCfg = Release|anycpu
+		{68FD0ADC-267F-4106-9341-E37626720BAD}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA33C866-EAE5-4A44-9615-F9F6BD5C821B}
+	EndGlobalSection
+EndGlobal

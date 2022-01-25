@@ -1,0 +1,6 @@
+/Users/MAC-kokobill/Projects/FindLevel/FindLevel/bin/Debug/FindLevel.exe
+/Users/MAC-kokobill/Projects/FindLevel/FindLevel/bin/Debug/FindLevel.pdb
+/Users/MAC-kokobill/Projects/FindLevel/FindLevel/obj/Debug/FindLevel.csproj.AssemblyReference.cache
+/Users/MAC-kokobill/Projects/FindLevel/FindLevel/obj/Debug/FindLevel.csproj.CoreCompileInputs.cache
+/Users/MAC-kokobill/Projects/FindLevel/FindLevel/obj/Debug/FindLevel.exe
+/Users/MAC-kokobill/Projects/FindLevel/FindLevel/obj/Debug/FindLevel.pdb

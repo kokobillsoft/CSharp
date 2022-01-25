@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7525D17B-1AD5-49B8-AF1C-A8683F291B94}|Default">
+  <MonoDevelop.Ide.ItemProperties.FindLevelOptimalVariant PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FindLevelOptimalVariant/Program.cs">
+    <Files>
+      <File FileName="FindLevelOptimalVariant/Program.cs" Line="37" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

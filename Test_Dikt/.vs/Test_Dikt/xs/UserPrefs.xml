@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6146D7E4-486C-42CD-B0F6-FCAD8DBA1F27}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test_Dikt/Program.cs">
+    <Files>
+      <File FileName="Test_Dikt/Program.cs" Line="11" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Test__Dikt PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

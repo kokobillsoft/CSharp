@@ -1,0 +1,6 @@
+/Users/MAC-kokobill/Projects/Palindrom/Palindrom/bin/Debug/Palindrom.exe
+/Users/MAC-kokobill/Projects/Palindrom/Palindrom/bin/Debug/Palindrom.pdb
+/Users/MAC-kokobill/Projects/Palindrom/Palindrom/obj/Debug/Palindrom.csproj.AssemblyReference.cache
+/Users/MAC-kokobill/Projects/Palindrom/Palindrom/obj/Debug/Palindrom.csproj.CoreCompileInputs.cache
+/Users/MAC-kokobill/Projects/Palindrom/Palindrom/obj/Debug/Palindrom.exe
+/Users/MAC-kokobill/Projects/Palindrom/Palindrom/obj/Debug/Palindrom.pdb

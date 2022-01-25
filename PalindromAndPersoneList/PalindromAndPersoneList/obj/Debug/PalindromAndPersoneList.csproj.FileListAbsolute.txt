@@ -1,0 +1,6 @@
+/Users/MAC-kokobill/Projects/PalindromAndPersoneList/PalindromAndPersoneList/bin/Debug/PalindromAndPersoneList.exe
+/Users/MAC-kokobill/Projects/PalindromAndPersoneList/PalindromAndPersoneList/bin/Debug/PalindromAndPersoneList.pdb
+/Users/MAC-kokobill/Projects/PalindromAndPersoneList/PalindromAndPersoneList/obj/Debug/PalindromAndPersoneList.csproj.AssemblyReference.cache
+/Users/MAC-kokobill/Projects/PalindromAndPersoneList/PalindromAndPersoneList/obj/Debug/PalindromAndPersoneList.csproj.CoreCompileInputs.cache
+/Users/MAC-kokobill/Projects/PalindromAndPersoneList/PalindromAndPersoneList/obj/Debug/PalindromAndPersoneList.exe
+/Users/MAC-kokobill/Projects/PalindromAndPersoneList/PalindromAndPersoneList/obj/Debug/PalindromAndPersoneList.pdb

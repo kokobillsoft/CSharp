@@ -1,0 +1,6 @@
+/Users/MAC-kokobill/Projects/FindLevelOptimalVariant/FindLevelOptimalVariant/bin/Debug/FindLevelOptimalVariant.exe
+/Users/MAC-kokobill/Projects/FindLevelOptimalVariant/FindLevelOptimalVariant/bin/Debug/FindLevelOptimalVariant.pdb
+/Users/MAC-kokobill/Projects/FindLevelOptimalVariant/FindLevelOptimalVariant/obj/Debug/FindLevelOptimalVariant.csproj.AssemblyReference.cache
+/Users/MAC-kokobill/Projects/FindLevelOptimalVariant/FindLevelOptimalVariant/obj/Debug/FindLevelOptimalVariant.csproj.CoreCompileInputs.cache
+/Users/MAC-kokobill/Projects/FindLevelOptimalVariant/FindLevelOptimalVariant/obj/Debug/FindLevelOptimalVariant.exe
+/Users/MAC-kokobill/Projects/FindLevelOptimalVariant/FindLevelOptimalVariant/obj/Debug/FindLevelOptimalVariant.pdb
